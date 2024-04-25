@@ -7,7 +7,7 @@ Software Engineer | Web developer
 Junior full-stack web developer passionate about tech and innovation. Proficient in a range of technologies, primarily Typesctipt, MERN stack, and NextJS.
 - 🌍  I'm based in Europe | Ukraine
 - 🖥️  [Portfolio website](http://gladysh.work)
-- ✉️  You can contact me at [gladyshinbox@gmail.com](mailto:gladyshinbox@gmail.com)
+- ✉️  You can contact me at [gladyshinbox@gmail.com](mailto:gladyshinbox@gmail.com) or [Linkedin](linkedin.com/in/gladyshn/)
 
 ### Skills 
 <p align="left">
