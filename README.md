@@ -7,8 +7,10 @@ Software Engineer | Web developer
 Junior full-stack web developer passionate about tech and innovation. Proficient in a range of technologies, primarily Typesctipt, MERN stack, and NextJS. Experienced with cutting-edge development tools and procedures. Proactive, able to effectively self-manage during independent projects as well as collaborate as part of a productive team. I am enthusiastic about leveraging my skills and experience to contribute to the success of the team and drive continuous improvement.
 
 🌍  I'm based in Europe | Ukraine
+
 🖥️  [Portfolio website](http://gladysh.work)
-*   ✉️  You can contact me at [gladyshinbox@gmail.com](mailto:gladyshinbox@gmail.com)
+
+✉️  You can contact me at [gladyshinbox@gmail.com](mailto:gladyshinbox@gmail.com)
 
 ### Skills 
 <p align="left">
