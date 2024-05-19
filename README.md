@@ -4,10 +4,7 @@ Hi 👋 My name is Nazar Gladysh
 Software Engineer | Web developer
 ---------------------------------
 
-Results-driven web developer with over two years of experience and desire to take on new challenges. Proficient in front-end and back-end technologies.
-- 🌍  Based in Europe, from Ukraine
-- 🖥️  [Portfolio website](http://gladysh.work)
-- ✉️  You can contact me at [gladyshinbox@outlook.com](mailto:gladyshinbox@outlook.com) or [Linkedin](linkedin.com/in/gladyshin/)
+Results-driven web developer with over two years of experience and desire to take on new challenges. Proficient in front-end and back-end technologies. You can also find more about me on my [personal website](http://gladysh.work).
 
 ### Skills 
 <p align="left">
