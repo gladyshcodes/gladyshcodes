@@ -1,4 +1,4 @@
-Hi 👋 My name is Nazar Gladysh
+Hi! My name is Nazar Gladysh
 ==============================
 
 Software Engineer | Web developer
