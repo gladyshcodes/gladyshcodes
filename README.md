@@ -4,8 +4,8 @@ Hi 👋 My name is Nazar Gladysh
 Software Engineer | Web developer
 ---------------------------------
 
-Junior full-stack web developer passionate about tech and innovation. Proficient in a range of technologies, primarily Typesctipt, MERN stack, and NextJS.
-- 🌍  I'm based in Europe | Ukraine
+Results-driven web developer with over two years of experience and desire to take on new challenges. Proficient in front-end and back-end technologies.
+- 🌍  Based in Europe, from Ukraine
 - 🖥️  [Portfolio website](http://gladysh.work)
 - ✉️  You can contact me at [gladyshinbox@gmail.com](mailto:gladyshinbox@gmail.com) or [Linkedin](linkedin.com/in/gladyshn/)
 
