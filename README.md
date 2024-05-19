@@ -7,7 +7,7 @@ Software Engineer | Web developer
 Results-driven web developer with over two years of experience and desire to take on new challenges. Proficient in front-end and back-end technologies.
 - 🌍  Based in Europe, from Ukraine
 - 🖥️  [Portfolio website](http://gladysh.work)
-- ✉️  You can contact me at [gladyshinbox@gmail.com](mailto:gladyshinbox@gmail.com) or [Linkedin](linkedin.com/in/gladyshn/)
+- ✉️  You can contact me at [gladyshinbox@gmail.com](mailto:gladyshinbox@outlook.com) or [Linkedin](linkedin.com/in/gladyshn/)
 
 ### Skills 
 <p align="left">
