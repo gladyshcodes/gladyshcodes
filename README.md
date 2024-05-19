@@ -1,9 +1,6 @@
 Hi! My name is Nazar Gladysh
 ==============================
 
-Software Engineer | Web developer
----------------------------------
-
 Results-driven web developer with over two years of experience and desire to take on new challenges. Proficient in front-end and back-end technologies. You can also find more about me on my [personal website](http://gladysh.work).
 
 <p align="left">
