@@ -1,7 +1,7 @@
 Hi! My name is Nazar Gladysh
 ==============================
 
-Full-stack developer. Find more about me on my [personal website](http://gladysh.work).
+SWE
 
 Tech I use:
 
